@@ -11,7 +11,12 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.notepad.ui.theme.NotepadTheme
-
+/*
+ Quiero una aplicacion que me permita escribit notas (titulo y descripcion), listar las notas
+ y poder acceder a ellas
+ Lista productos ->productos
+ Lista infinita de post --> Post
+ */
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
